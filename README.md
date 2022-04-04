@@ -10,6 +10,25 @@ There is a bulleted list that addresses how each of the seven school district me
 Summary:
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+# School District Analysis
+## Project Overview
+
+### Purpose
+
+---
+
+## Analysis and Challenges
+
+### Analysis
+
+### Challenges and Difficulties Encountered
+
+---
+
+## Results
+
+---
+
 <img width="672" alt="1) Remove, 9th grade, format" src="https://user-images.githubusercontent.com/79609464/161644425-86fa688b-9700-47eb-99cc-b0a6ed277044.png">
 <img width="831" alt="2) Merge" src="https://user-images.githubusercontent.com/79609464/161644431-02ccd8b2-3515-4c4c-96ad-306c2b71d441.png">
 <img width="937" alt="3) Overall Statistics" src="https://user-images.githubusercontent.com/79609464/161644434-877b7e58-731b-4f1c-86c1-acc086ba57dc.png">
