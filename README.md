@@ -1,4 +1,3 @@
-# School-District-Analysis
 The written analysis has the following:
 
 Overview of the school district analysis:
