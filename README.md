@@ -10,13 +10,13 @@ There is a bulleted list that addresses how each of the seven school district me
 Summary:
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
-<img width="999" alt="Bottom five" src="https://user-images.githubusercontent.com/79609464/161642758-bf36ce63-3cac-48ad-ac46-552f0eb688da.png">
-<img width="308" alt="Highschool Math Scores" src="https://user-images.githubusercontent.com/79609464/161642759-1d061388-f517-4e09-a8f8-8ba7c9b1486d.png">
-<img width="306" alt="Highschool Reading Scores" src="https://user-images.githubusercontent.com/79609464/161642760-d90336b4-d437-4b74-80bb-90ba4b940089.png">
-<img width="831" alt="Merge" src="https://user-images.githubusercontent.com/79609464/161642763-a9df25f4-5f5b-45f7-ad8d-8111aa3dd246.png">
-<img width="937" alt="Overall Statistics" src="https://user-images.githubusercontent.com/79609464/161642765-f982122f-ce78-42db-ae8b-d2a060240235.png">
-<img width="828" alt="Pass rates by amount spent per student" src="https://user-images.githubusercontent.com/79609464/161642767-a44d51bc-4403-4934-8a11-e87858359761.png">
-<img width="774" alt="Pass Rates by school size" src="https://user-images.githubusercontent.com/79609464/161642769-ee85e362-029a-4d8c-ba47-38d9c845174c.png">
-<img width="729" alt="Public Vs  Charter" src="https://user-images.githubusercontent.com/79609464/161642771-6fd1c168-c950-4ae0-a127-38dd02c84f36.png">
-<img width="672" alt="Remove, 9th grade, format" src="https://user-images.githubusercontent.com/79609464/161642772-2717f24d-c7dd-470c-a970-6a00dd732cb6.png">
-<img width="1002" alt="Top Five" src="https://user-images.githubusercontent.com/79609464/161642773-cb055de3-2d83-4f37-bd21-815e4b8f9399.png">
+<img width="672" alt="1) Remove, 9th grade, format" src="https://user-images.githubusercontent.com/79609464/161644425-86fa688b-9700-47eb-99cc-b0a6ed277044.png">
+<img width="831" alt="2) Merge" src="https://user-images.githubusercontent.com/79609464/161644431-02ccd8b2-3515-4c4c-96ad-306c2b71d441.png">
+<img width="937" alt="3) Overall Statistics" src="https://user-images.githubusercontent.com/79609464/161644434-877b7e58-731b-4f1c-86c1-acc086ba57dc.png">
+<img width="1002" alt="4) Top Five" src="https://user-images.githubusercontent.com/79609464/161644436-88bb8161-60a2-4d58-9476-28c532ac0e3d.png">
+<img width="999" alt="5) Bottom five" src="https://user-images.githubusercontent.com/79609464/161644440-1c68dd9d-0254-4394-9951-8c6ef89bd6d6.png">
+<img width="308" alt="6) Highschool Math Scores" src="https://user-images.githubusercontent.com/79609464/161644443-9a00cf1e-3f13-4cad-9f30-b852d25ff8b2.png">
+<img width="306" alt="7) Highschool Reading Scores" src="https://user-images.githubusercontent.com/79609464/161644445-a6e4780d-15a3-4205-ad23-7ea4267d2fc5.png">
+<img width="828" alt="8) Pass rates by amount spent per student" src="https://user-images.githubusercontent.com/79609464/161644447-17201be3-271a-4aae-8038-cfeeb4547119.png">
+<img width="774" alt="9) Pass Rates by school size" src="https://user-images.githubusercontent.com/79609464/161644449-55739d1d-dfd3-4679-b285-fb625b694679.png">
+<img width="729" alt="10) Public Vs  Charter" src="https://user-images.githubusercontent.com/79609464/161644466-2055d6c3-10dd-4d3f-8c33-f1ac9c1dfaa8.png">
