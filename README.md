@@ -27,7 +27,8 @@ There is a statement summarizing four changes to the school district analysis af
 ## Results
 
 ---
-Replacing 9th grade math and reading score with N/A values from Thomas High School; this is because the results were recorded incorrectly and we must first remove those data points. <br / >
+## Analysis
+Replace 9th grade math and reading score with N/A values from Thomas High School; this is because the results were recorded incorrectly and we must first remove those data points. <br />
 <img width="672" alt="1) Remove, 9th grade, format" src="https://user-images.githubusercontent.com/79609464/161644425-86fa688b-9700-47eb-99cc-b0a6ed277044.png">
 
 Now we are going to merge the schools and students data frame; this will allow us to access the students data frame and each schools Id, district size and budget. <br />
@@ -43,10 +44,10 @@ Similarly, this shows each schools average math/reading scores and pass percenta
 ### Bottom Five Schools
 <img width="999" alt="5) Bottom five" src="https://user-images.githubusercontent.com/79609464/161644440-1c68dd9d-0254-4394-9951-8c6ef89bd6d6.png">
 
-###Average District Math Scores
+### Average District Math Scores
 <img width="308" alt="6) Highschool Math Scores" src="https://user-images.githubusercontent.com/79609464/161644443-9a00cf1e-3f13-4cad-9f30-b852d25ff8b2.png">
 
-###Average District Reading Scores
+### Average District Reading Scores
 <img width="306" alt="7) Highschool Reading Scores" src="https://user-images.githubusercontent.com/79609464/161644445-a6e4780d-15a3-4205-ad23-7ea4267d2fc5.png">
 
 ### Amount Spent Per Student vs Pass Rates
@@ -57,3 +58,5 @@ Similarly, this shows each schools average math/reading scores and pass percenta
 
 ### Public and Charter vs Pass Rates
 <img width="729" alt="10) Public Vs  Charter" src="https://user-images.githubusercontent.com/79609464/161644466-2055d6c3-10dd-4d3f-8c33-f1ac9c1dfaa8.png">
+
+---
