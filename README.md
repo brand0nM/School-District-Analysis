@@ -39,17 +39,19 @@ From the table below its clear the variance of scores between grades is relative
 
 
 ### Amount Spent Per Student vs Pass Rates
-
+By soley observing this dataframe an inversly proportional trend emerges between the amount spent per student and the pass rates.<br />
 <img width="828" alt="8) Pass rates by amount spent per student" src="https://user-images.githubusercontent.com/79609464/161644447-17201be3-271a-4aae-8038-cfeeb4547119.png">
 
 ### School Size vs Pass Rates
+These results speak more to the inefficencies of large schools than to the success of small and medium schools; the most obvious trend is that schools with a population over 2,000 tend to have significanty lower pass rates. The passrates from small to medium schools are extremely similar; though we would expect smaller schools to have a greater passrates than medium, this is not the case. The overall passrate for medium schools is even greater than that of small schools. <br />
+
 <img width="774" alt="9) Pass Rates by school size" src="https://user-images.githubusercontent.com/79609464/161644449-55739d1d-dfd3-4679-b285-fb625b694679.png">
 
 ### Public and Charter vs Pass Rates
+
 <img width="729" alt="10) Public Vs  Charter" src="https://user-images.githubusercontent.com/79609464/161644466-2055d6c3-10dd-4d3f-8c33-f1ac9c1dfaa8.png">
 
 ---
-
 
 ## Analysis and Challenges
 
