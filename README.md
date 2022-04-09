@@ -13,7 +13,7 @@ Before we can start the analysis we've been informed that 9th graders from Thoma
 Now we are going to merge the schools and students data frame; this allow us to manipulate both data frames at once. <br />
 <img width="831" alt="2) Merge" src="https://user-images.githubusercontent.com/79609464/161644431-02ccd8b2-3515-4c4c-96ad-306c2b71d441.png">
 
-#### District budget, Average Math/Reading scores, and Pass Percentages <br />
+#### District Statistics <br />
 <img width="937" alt="3) Overall Statistics" src="https://user-images.githubusercontent.com/79609464/161644434-877b7e58-731b-4f1c-86c1-acc086ba57dc.png">
 
 #### Top Five Schools
