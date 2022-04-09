@@ -47,11 +47,13 @@ In trying to put together a full picture, this data seems to be missing some pie
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 - Charter schools perform better than public schools on standardized test.
 - Schools with a population of less than 2,000 outperform those with a population larger than 2,000.
-- Schools with a medium population on average outperform schools with less than 1,000.
+- Schools with a medium population outperform schools with a population of less than 1,000.
 - Grade level does not affect performance on standardized tests.
-- The amount spent per student at the top performing schools is about the same as the bottom performing.
--
--
+- The amount spent per student at top performing schools the same as the bottom performing.
+- The amount spent per student is an important factor, but charter schools tend to recieve- and rely on- donation's outside of the district budget.
+- The main difference between public and chater schools is the attention to the skewedness of their pass rates
+  - Public schools have a lot of students on the failing side of this distribution; its norally distibuted around the mean
+  - Charter schools don't have any- or a few outliers- that lie in the bellow the mean; their data is skewed left.
 
 ---
 ## Summary
