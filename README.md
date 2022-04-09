@@ -11,35 +11,24 @@ Summary:
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
 # School District Analysis
 ## Project Overview
+We have been tasked with analyzing standardized test data to gleam insights on school performace; This analysis will discuss how factors like school size, type (public or charter), and the amount spend per student affect the pass rate. 
 
 ### Purpose
-
----
-
-## Analysis and Challenges
-
-### Analysis
-
-### Challenges and Difficulties Encountered
-
----
-
-## Results
+We will deploy a python jupyter notebook to read and merge two .csv files, then investigate this data.
 
 ---
 ## Analysis
-Replace 9th grade math and reading score with N/A values from Thomas High School; this is because the results were recorded incorrectly and we must first remove those data points. <br />
+Before we can start this analysis we've been informed that the 9th graders from Thomas High School have corrupt data. To rectify this mistake we must first replace the 9th graders math and reading score with N/A values. <br />
 <img width="672" alt="1) Remove, 9th grade, format" src="https://user-images.githubusercontent.com/79609464/161644425-86fa688b-9700-47eb-99cc-b0a6ed277044.png">
 
-Now we are going to merge the schools and students data frame; this will allow us to access the students data frame and each schools Id, district size and budget. <br />
+Now we are going to merge the schools and students data frame; this allow us to manipulate both data frames at once. <br />
 <img width="831" alt="2) Merge" src="https://user-images.githubusercontent.com/79609464/161644431-02ccd8b2-3515-4c4c-96ad-306c2b71d441.png">
 
-This image shows the district budget, average math/reading scores and pass percentages. <br />
+The district budget, average math/reading scores and pass percentages are shown below. <br />
 <img width="937" alt="3) Overall Statistics" src="https://user-images.githubusercontent.com/79609464/161644434-877b7e58-731b-4f1c-86c1-acc086ba57dc.png">
 
 ### Top Five Schools
 <img width="1002" alt="4) Top Five" src="https://user-images.githubusercontent.com/79609464/161644436-88bb8161-60a2-4d58-9476-28c532ac0e3d.png">
-Similarly, this shows each schools average math/reading scores and pass percentages for the top five schools in the district. <br />
 
 ### Bottom Five Schools
 <img width="999" alt="5) Bottom five" src="https://user-images.githubusercontent.com/79609464/161644440-1c68dd9d-0254-4394-9951-8c6ef89bd6d6.png">
@@ -58,5 +47,18 @@ Similarly, this shows each schools average math/reading scores and pass percenta
 
 ### Public and Charter vs Pass Rates
 <img width="729" alt="10) Public Vs  Charter" src="https://user-images.githubusercontent.com/79609464/161644466-2055d6c3-10dd-4d3f-8c33-f1ac9c1dfaa8.png">
+
+---
+
+
+## Analysis and Challenges
+
+### Analysis
+
+### Challenges and Difficulties Encountered
+
+---
+
+## Results
 
 ---
