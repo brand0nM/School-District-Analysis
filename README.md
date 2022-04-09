@@ -33,10 +33,10 @@ The district budget, average math/reading scores and pass percentages are shown 
 ### Bottom Five Schools
 <img width="999" alt="5) Bottom five" src="https://user-images.githubusercontent.com/79609464/161644440-1c68dd9d-0254-4394-9951-8c6ef89bd6d6.png">
 
-### Average District Math Scores
+### Schools Average Math Scores by Grade
 <img width="308" alt="6) Highschool Math Scores" src="https://user-images.githubusercontent.com/79609464/161644443-9a00cf1e-3f13-4cad-9f30-b852d25ff8b2.png">
 
-### Average District Reading Scores
+### Schools Average Reading Scores by Grade
 <img width="306" alt="7) Highschool Reading Scores" src="https://user-images.githubusercontent.com/79609464/161644445-a6e4780d-15a3-4205-ad23-7ea4267d2fc5.png">
 
 ### Amount Spent Per Student vs Pass Rates
