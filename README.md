@@ -7,13 +7,13 @@ We will deploy a python jupyter notebook to read and merge two .csv files, then 
 
 ---
 ## Analysis
-Before we can start this analysis we've been informed that the 9th graders from Thomas High School have corrupt data. To rectify this mistake we must first replace the 9th graders math and reading score with N/A values. <br />
+Before we can start the analysis we've been informed that 9th graders from Thomas High School have corrupt data. To rectify this mistake we must first replace the 9th graders math and reading score with N/A values. <br />
 <img width="672" alt="1) Remove, 9th grade, format" src="https://user-images.githubusercontent.com/79609464/161644425-86fa688b-9700-47eb-99cc-b0a6ed277044.png">
 
 Now we are going to merge the schools and students data frame; this allow us to manipulate both data frames at once. <br />
 <img width="831" alt="2) Merge" src="https://user-images.githubusercontent.com/79609464/161644431-02ccd8b2-3515-4c4c-96ad-306c2b71d441.png">
 
-The district budget, average math/reading scores and pass percentages are shown below. <br />
+#### District budget, Average Math/Reading scores, and Pass Percentages <br />
 <img width="937" alt="3) Overall Statistics" src="https://user-images.githubusercontent.com/79609464/161644434-877b7e58-731b-4f1c-86c1-acc086ba57dc.png">
 
 #### Top Five Schools
@@ -40,7 +40,7 @@ From these results its clear Charter schools have a greater pass rate than publi
 <img width="729" alt="10) Public Vs  Charter" src="https://user-images.githubusercontent.com/79609464/161644466-2055d6c3-10dd-4d3f-8c33-f1ac9c1dfaa8.png">
 
 ### Challenges and Difficulties Encountered
-In trying to put together a full picture, this data seems to be missing some piece like student satisfaction rating, bullying levels, etc; Standardized test pass rates are surely one metric- and probably the easiest to gauge- but it doesn't capture what the environment is like. The reason this is important is because metric like the amount of money spent per student need context to be properly interpreted; right now it's saying the less money we spend per student, the more successful they'll be- but that seems suspicious. For example, if we are comparing a "rich" charter school and an "impoverished" public school, both of them may have the same amount of money spent per student. In the charter school, the extra money goes to pay the teachers and admin, allowing them to have a high retention level; to make up for these gaps, rich parents will provide money for extra cirricular activities- buy the football team new gear. Impoverished public schools may not have the same luxury. The point being 
+In trying to put together a full picture, this data seems to be missing some piece like student satisfaction rating, bullying levels, etc; Standardized test pass rates are surely one metric- and probably the easiest to gauge- but it doesn't capture what the environment is like. The reason this is important is because metric like the amount of money spent per student need context to be properly interpreted; right now it's saying the less money we spend per student, the more successful they'll be- but that seems suspicious. For example, if we are comparing a "rich" charter school and an "impoverished" public school, both of them may have the same amount of money spent per student. In the charter school, the extra money goes to pay the teachers and admin, allowing them to have a high retention level; to make up for these gaps, rich parents will provide money for extra cirricular activities- buying the football team new gear. Impoverished public schools will not have the same luxury. Furthermore, this pattern is supported by the Top and Bottom five school's table; both of these categories spend rougly the same amount per student. The only difference- in our recorded mertics- is the size of each school. Though the size of school is an important factor, and may be the most important, it is not the only factor; hence there are factors outside of standardized tests affecting these results. Things like bullying could be more prevelant at public schools, this would surely affect the graduation rate, but its outside the scope of our data.
 
 ---
 ## Results
