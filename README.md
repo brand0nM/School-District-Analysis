@@ -33,11 +33,9 @@ The district budget, average math/reading scores and pass percentages are shown 
 ### Bottom Five Schools
 <img width="999" alt="5) Bottom five" src="https://user-images.githubusercontent.com/79609464/161644440-1c68dd9d-0254-4394-9951-8c6ef89bd6d6.png">
 
-### Schools Average Math Scores by Grade
-<img width="308" alt="6) Highschool Math Scores" src="https://user-images.githubusercontent.com/79609464/161644443-9a00cf1e-3f13-4cad-9f30-b852d25ff8b2.png">
-
-### Schools Average Reading Scores by Grade
-<img width="306" alt="7) Highschool Reading Scores" src="https://user-images.githubusercontent.com/79609464/161644445-a6e4780d-15a3-4205-ad23-7ea4267d2fc5.png">
+### Schools Average Reading and Math Scores by Grade
+From the table below its clear that the variance of scores between grades is relatively low; hence, grade level is not a factor in determining standardized test scores.
+<img width="1159" alt="Screen Shot 2022-04-09 at 11 17 12 AM" src="https://user-images.githubusercontent.com/79609464/162584593-828c54d5-501d-4dc4-aa9f-477bb5fba94f.png">
 
 ### Amount Spent Per Student vs Pass Rates
 <img width="828" alt="8) Pass rates by amount spent per student" src="https://user-images.githubusercontent.com/79609464/161644447-17201be3-271a-4aae-8038-cfeeb4547119.png">
