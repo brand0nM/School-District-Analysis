@@ -44,20 +44,18 @@ In trying to put together a full picture, this data seems to be missing some pie
 
 ---
 ## Results
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 - Charter schools perform better than public schools on standardized test.
 - Schools with a population of less than 2,000 outperform those with a population larger than 2,000.
 - Schools with a medium population outperform schools with a population of less than 1,000.
 - Grade level does not affect performance on standardized tests.
 - The amount spent per student at top performing schools the same as the bottom performing.
 - The amount spent per student is an important factor, but charter schools tend to recieve- and rely on- donation's outside of the district budget.
-- The main difference between public and chater schools is the attention to the skewedness of their pass rates
+- The main difference between public and chater schools is an attention to the skewedness of their pass rates
   - Public schools have a lot of students on the failing side of this distribution; its norally distibuted around the mean
   - Charter schools don't have any- or a few outliers- that lie in the bellow the mean; their data is skewed left.
 
 ---
 ## Summary
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+Charter schools are more successful- in terms of pass rates- than public schools; This can be attributed to a number of reasons outside the scope of our data. Before we replaced the n/a values this data set would have told a much different story; Thomas Highschool would have been in the bottom five schools instead of the top five. Thus we couldn't have concluded charter schools are more successful. Additionally, this would have changed how we viewed medium sized schools; instead of marginally outperforming small schools, medium schools would have appeared to perform nearly as bad as large schools. This would have also affected our district statistics and average scores.
 
 ---
